@@ -14,6 +14,10 @@
 
     <!-- 5th Edition Spellbook -->
     <item component="ComponentInfo{com.spellsdd5/com.spelldd5.MainActivity}" drawable="spellbook" />
+    <!-- 1.1.1.1 -->
+    <item component="ComponentInfo{com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.MainActivity}" drawable="onedotonedotonedotone"/>
+    <!-- Admin -->
+    <item component="ComponentInfo{com.google.android.apps.enterprise.cpanel/com.google.android.apps.enterprise.cpanel.activities.EntryPointActivity}" drawable="googleadmin"/>
 
     <!-- 9gag -->
     <item component="ComponentInfo{com.ninegag.android.app/com.ninegag.android.app.ui.SplashScreenActivity}" drawable="gag" />
