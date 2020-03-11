@@ -10,10 +10,13 @@
         <item>adaway</item>
         <item>adbmanager</item>
         <item>adiutor</item>
+        <item>adobeclipalt</item>
+        <item>adobeclip</item>
         <item>adobelightroom</item>
         <item>adobephothoshop</item>
         <item>adoberush</item>
         <item>adobexd</item>
+        <item>adpmobile</item>
         <item>aegis</item>
         <item>afwall</item>
         <item>aimsicd</item>
@@ -22,12 +25,19 @@
         <item>alditalk</item>
         <item>aliexpress</item>
         <item>alliant</item>
+        <item>allinonecalculator</item>
         <item>amaze</item>
+        <item>amazonkindlealt</item>
+        <item>amazonkindle</item>
         <item>amazonshopping</item>
+        <item>amctheatres</item>
         <item>amdroid</item>
+        <item>amino</item>
         <item>ampere</item>
         <item>an2linux</item>
+        <item>anchor</item>
         <item>andotp</item>
+        <item>androidauto</item>
         <item>androidrun</item>
         <item>android</item>
         <item>androidterm</item>
@@ -52,6 +62,7 @@
         <item>appspackagesinfo</item>
         <item>arbetsfor</item>
         <item>archwikiviewer</item>
+        <item>arrive</item>
         <item>asteroidossync</item>
         <item>atomic</item>
         <item>audible</item>
@@ -70,10 +81,16 @@
         <item>batterycalibration</item>
         <item>batterychargelimit</item>
         <item>battery</item>
+        <item>battlenetalt</item>
+        <item>battlenet</item>
         <item>bbm</item>
+        <item>bestbuyhome</item>
+        <item>bestbuy</item>
         <item>bestiary</item>
         <item>bible</item>
         <item>bikelocation</item>
+        <item>binancealt</item>
+        <item>binance</item>
         <item>binaryeye</item>
         <item>birthdayadapter</item>
         <item>bitcoin</item>
@@ -103,6 +120,7 @@
         <item>bus_circle</item>
         <item>bus_square</item>
         <item>busybox</item>
+        <item>byteapp</item>
         <item>cabinet</item>
         <item>calculator</item>
         <item>calendarcolor</item>
@@ -124,6 +142,7 @@
         <item>chanu</item>
         <item>checkey</item>
         <item>chefkoch</item>
+        <item>chickfila</item>
         <item>chip</item>
         <item>chrome</item>
         <item>chromiumautoupdater</item>
@@ -290,7 +309,11 @@
         <item>goblim</item>
         <item>goldenone</item>
         <item>goodweather</item>
+        <item>googleadmin</item>
+        <item>googleadsense</item>
+        <item>googleanalytics</item>
         <item>googleapp</item>
+        <item>googleassistant</item>
         <item>googlefi</item>
         <item>googlesettings</item>
         <item>google</item>
@@ -433,6 +456,7 @@
         <item>mgit</item>
         <item>microchip</item>
         <item>microgsettings</item>
+        <item>microsoftauthenticator</item>
         <item>mifit</item>
         <item>mindustry</item>
         <item>minecraft</item>
@@ -504,7 +528,9 @@
         <item>offlinecalendar</item>
         <item>omninotes</item>
         <item>om</item>
+        <item>onedotonedotonedotone</item>
         <item>onelist</item>
+        <item>onepluscommunity</item>
         <item>openapk</item>
         <item>opencamera</item>
         <item>openconnect</item>

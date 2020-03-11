@@ -25,3 +25,9 @@ gradle.properties
 gradlew
 gradlew.bat
 .DS_Store
+
+app/.classpath
+app/.project
+.project
+.settings/org.eclipse.buildship.core.prefs
+app/.settings/org.eclipse.buildship.core.prefs
