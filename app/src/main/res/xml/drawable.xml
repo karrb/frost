@@ -172,6 +172,8 @@
     <item drawable="cpuz" />
     <item drawable="creditagricole" />
     <item drawable="crontosignswiss" />
+    <item drawable="crunchyrollalt" />
+    <item drawable="crunchyroll" />
     <item drawable="cryptomator" />
     <item drawable="cuprumpdf" />
     <item drawable="cythara" />
@@ -181,6 +183,7 @@
     <item drawable="dbnavigator" />
     <item drawable="deco" />
     <item drawable="deezer" />
+    <item drawable="definitive" />
     <item drawable="degiro" />
     <item drawable="dellconnect" />
     <item drawable="deluge" />
@@ -195,15 +198,18 @@
     <item drawable="dir" />
     <item drawable="discord" />
     <item drawable="diskusage" />
+    <item drawable="disneyplus" />
     <item drawable="disroot" />
     <item drawable="dkbbanking" />
     <item drawable="dns66" />
     <item drawable="dnsfilter" />
     <item drawable="dnsman" />
     <item drawable="doodle" />
+    <item drawable="dosh" />
     <item drawable="downloadnavi" />
     <item drawable="downloads" />
     <item drawable="drawer" />
+    <item drawable="Dribble" />
     <item drawable="drinks" />
     <item drawable="drive" />
     <item drawable="dropbox" />
@@ -236,6 +242,7 @@
     <item drawable="excel" />
     <item drawable="exodusprivacy" />
     <item drawable="exportcontacts" />
+    <item drawable="facebookads" />
     <item drawable="facebook" />
     <item drawable="fairemail" />
     <item drawable="faketraveller" />
@@ -255,6 +262,8 @@
     <item drawable="firefoxpreview" />
     <item drawable="firefoxsend" />
     <item drawable="firefox" />
+    <item drawable="fitbit" />
+    <item drawable="fiver" />
     <item drawable="flatastic" />
     <item drawable="flickr" />
     <item drawable="flinkster" />
@@ -265,6 +274,7 @@
     <item drawable="flowfree" />
     <item drawable="flowfreewarps" />
     <item drawable="flux" />
+    <item drawable="flydelta" />
     <item drawable="folderfavourites" />
     <item drawable="foldergames" />
     <item drawable="foldergoogle" />
@@ -296,6 +306,7 @@
     <item drawable="geogebra" />
     <item drawable="ghostcommander" />
     <item drawable="gitlab" />
+    <item drawable="gitnex" />
     <item drawable="gkeep" />
     <item drawable="gkeyboardjp" />
     <item drawable="gkeyboard" />
@@ -311,12 +322,15 @@
     <item drawable="goodweather" />
     <item drawable="googleadmin" />
     <item drawable="googleadsense" />
+    <item drawable="googleads" />
     <item drawable="googleanalytics" />
     <item drawable="googleapp" />
     <item drawable="googleassistant" />
     <item drawable="googlefi" />
+    <item drawable="googleone" />
     <item drawable="googlesettings" />
     <item drawable="google" />
+    <item drawable="googlewifi" />
     <item drawable="gosuslugi" />
     <item drawable="gphotos" />
     <item drawable="gplaystore" />
@@ -755,6 +769,7 @@
     <item drawable="tinytraveltracker" />
     <item drawable="tisseo" />
     <item drawable="tk" />
+    <item drawable="tmobiledigits" />
     <item drawable="todoagenda" />
     <item drawable="torbrowser" />
     <item drawable="torchie" />
